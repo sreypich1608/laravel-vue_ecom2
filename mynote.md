@@ -1,0 +1,1 @@
+all admin user have password 123456
